@@ -34,8 +34,8 @@
         <dependency>
             <groupId>com.sleepycat</groupId>
             <artifactId>je</artifactId>
-            <!--<version>5.0.73</version>-->
-            <version>6.4.9</version>
+            <version>5.0.73</version>
+            <!-- <version>6.4.9</version> -->
         </dependency>
         <dependency>
             <groupId>com.google.guava</groupId>
